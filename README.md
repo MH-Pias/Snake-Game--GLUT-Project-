@@ -2,7 +2,7 @@
 
 A simple snake game using openGL and cpp. This was done for computer graphics course. 
 
-#Control
+# Control
 
 Move left: press left arrow or key-A
 Move right: press right arrow or key-D
